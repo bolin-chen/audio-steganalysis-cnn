@@ -397,7 +397,7 @@ def main():
 
       print('-----')
 
-    if step % 40000 ==0:
+    if step % 50000 ==0:
       print('Train complete')
 
       # filename = os.path.basename(__file__)

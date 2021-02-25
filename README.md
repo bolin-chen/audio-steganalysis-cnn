@@ -1,4 +1,4 @@
-# audio-steganography-cnn
+# audio-steganalysis-cnn
 An audio steganalysis method based on CNN in the time domain.
 
 ## Abstract
